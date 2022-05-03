@@ -1,5 +1,5 @@
-import pyskel
+import pycards
 
 
 def test_version():
-    assert pyskel.__version__ == (0, 0, 0)
+    assert pycards.__version__ == (0, 0, 0)
