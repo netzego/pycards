@@ -10,6 +10,7 @@ repository = "git@github.com:netzego/pycards.git"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+attrs = "^21.4.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.1"
