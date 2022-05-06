@@ -1,6 +1,7 @@
 import attr
 
-# Common spades high scoreing
+# The orders defines the scoring with the latest color have the highest value
+# based on the index in the array.
 SUITS = "clubs diamonds hearts spades".split()
 
 
